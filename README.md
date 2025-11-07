@@ -2,7 +2,7 @@
 
 ## O que é este projeto?
 
-Este é um projeto onde criei coloquei uma API (aplicação) para rodar na nuvem da Amazon (AWS).
+Este é um projeto onde coloquei uma API (aplicação) para rodar na nuvem da Amazon (AWS).
 
 A API consegue:
 - Receber requisições da internet
